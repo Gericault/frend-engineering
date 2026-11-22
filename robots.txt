@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://frend.pro/sitemap.xml
+Sitemap: https://www.frend.pro/sitemap.xml
