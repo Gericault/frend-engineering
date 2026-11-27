@@ -2,3 +2,6 @@
 Thumbs.db
 *.swp
 node_modules/
+
+# Local agent skills (machine-specific, not for publication)
+.hermes/

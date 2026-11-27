@@ -12,6 +12,11 @@
   },
   "routes": [
     {
+      "route": "/README.md",
+      "rewrite": "/404.html",
+      "statusCode": 404
+    },
+    {
       "route": "/styles.css",
       "headers": {
         "cache-control": "public, max-age=3600"
