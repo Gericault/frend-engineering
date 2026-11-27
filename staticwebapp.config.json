@@ -13,8 +13,7 @@
   "routes": [
     {
       "route": "/README.md",
-      "rewrite": "/404.html",
-      "statusCode": 404
+      "redirect": "/"
     },
     {
       "route": "/styles.css",
